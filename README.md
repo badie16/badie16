@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center">
+<div align="center" >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%FFF&size=30&center=true&vCenter=true&width=500&lines=Badie bahida" a></a>
 </div>
 <h2>ℹ️ Project info</h2>
