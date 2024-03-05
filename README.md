@@ -39,6 +39,12 @@
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
+<h2>⚡ Github Stats</h2>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=badie16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badie16&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 
 <img src="https://cat-gifs.cyclic.app">
 
