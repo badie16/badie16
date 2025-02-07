@@ -1,7 +1,15 @@
-<div id="top"></div>
-<div align="center" >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%FFF&size=30&center=true&vCenter=true&width=500&lines=Badie bahida" a></a>
-</div>
+<h1> Hi there, I'm Badie Bahida! 👋</h1>
+
+## 🚀 About Me
+I'm a cybersecurity and software engineering enthusiast currently studying **IT Security & Digital Trust** at **ENSIASD**. My passion lies in building secure, efficient systems, exploring new technologies, and constantly improving my skills.
+
+## 💻 Tech Stack
+- **Languages**: JavaScript, TypeScript, Dart, Python, Java, C++, C, PHP, SQL, Assembly
+- **Front-end**: React, React Native (Expo), Tailwind CSS, Bootstrap
+- **Back-end**: Node.js, Express.js, PHP (with MySQL)
+- **Databases**: MySQL, SQLite
+- **Tools & Other**: Git, GitHub, Unix, Shell scripting, Networking, Godot (Game Dev), Figma, Illustrator
+
 
 <h2>:Languages and Frameworks I'm studying</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
@@ -34,10 +42,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badie16&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badie16&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-
-<img src="https://cat-gifs.cyclic.app">
-
 <div>
         <a href="https://github.com/badie16">
             <img alt="Link para o meu GitHub" src="https://img.shields.io/github/followers/badie16?style=for-the-badge&labelColor=7E3ACE&color=181717">
@@ -47,35 +51,3 @@
         <a href="https://badges.strrl.dev"><img alt="commits este mês" src="https://badges.strrl.dev/commits/monthly/badie16?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
 </div>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="Obrigada pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Hello world!" >
-    </a>
-</div>
-## JavaScript
-
-```js
-console.log("Hello World!");
-```
-
-```js
-document.write("Hello World!");
-```
-
-## TypeScript
-
-```ts
-console.log("Hello World!");
-```
-
-## Node.js
-
-```js
-var sys = require("sys");
-sys.puts("Hello World!");
-```
-
-
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p>
-<div align="center" ><img alt="" width="100%" src="assets/footer.png"></div>
