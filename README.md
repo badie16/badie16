@@ -2,16 +2,6 @@
 <div align="center" >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%FFF&size=30&center=true&vCenter=true&width=500&lines=Badie bahida" a></a>
 </div>
-<h2>ℹ️ Project info</h2>
-<div>
-<img src="https://img.shields.io/github/repo-size/badie16/badie16?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Bifurcações no GitHub" src="https://img.shields.io/github/forks/badie16/badie16?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img  src="https://img.shields.io/github/stars/badie16/badie16?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img  src="https://img.shields.io/github/last-commit/badie16/badie16?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg"  height="22px"></a>
-<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
-</div>
 
 <h2>:Languages and Frameworks I'm studying</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
