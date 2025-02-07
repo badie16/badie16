@@ -11,7 +11,7 @@ I'm a cybersecurity and software engineering enthusiast currently studying **IT 
 - **Tools & Other**: Git, GitHub, Unix, Shell scripting, Networking, Godot (Game Dev), Figma, Illustrator
 
 
-<h2>👨‍💻Languages and Frameworks I'm studying</h2>
+<h2>👨‍💻 Languages and Frameworks I'm studying</h2>
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -23,7 +23,7 @@ I'm a cybersecurity and software engineering enthusiast currently studying **IT 
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 </br></br>
 
-<h2>🎲Tools that I use every day</h2>
+<h2>🎲 Tools that I use every day</h2>
 <code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
