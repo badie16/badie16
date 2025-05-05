@@ -6,8 +6,8 @@ I'm a cybersecurity and software engineering enthusiast currently studying **IT 
 ## 💻 Tech Stack
 - **Languages**: JavaScript, TypeScript, Dart, Python, Java, C++, C, PHP, SQL, Assembly
 - **Front-end**: React, React Native (Expo), Tailwind CSS, Bootstrap
-- **Back-end**: Node.js, Express.js, PHP (with MySQL)
-- **Databases**: MySQL, SQLite
+- **Back-end**: Node.js, Express.js, PHP , Python(Flask)
+- **Databases**: MySQL, SQLite, PostgreSQL
 - **Tools & Other**: Git, GitHub, Unix, Shell scripting, Networking, Godot (Game Dev), Figma, Illustrator
 
 
