@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Badie Bahida! 👋</h1>
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a cybersecurity and software engineering enthusiast currently studying **IT Security & Digital Trust** at **ENSIASD**. My passion lies in building secure, efficient systems, exploring new technologies, and constantly improving my skills.
 
 <br><br>
