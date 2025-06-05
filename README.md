@@ -26,12 +26,14 @@ I'm a cybersecurity and software engineering enthusiast currently studying **IT 
 
 <br><br>
 
+<br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/badie16">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badie16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badie16&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badie16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badie16&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
