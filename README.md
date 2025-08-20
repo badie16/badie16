@@ -27,11 +27,11 @@ My passion lies in building secure, efficient systems, exploring new technologie
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badie16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badie16&layout=compact&langs_count=10&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=badie16&layout=compact&langs_count=10&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badie16&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badie16&theme=github-compact&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Activity Graph" />
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=badie16)
