@@ -5,7 +5,7 @@ I'm a cybersecurity and software engineering enthusiast currently studying **IT 
 My passion lies in building secure, efficient systems, exploring new technologies, and constantly improving my skills.
 <img alt="Night Coding" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049" width="330px" align="right"/>
 <br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xbadie.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Badi30x.png" alt="Your Image Badge" />
 
 <br><br>
 ### 🌐 Socials
