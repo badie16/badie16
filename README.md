@@ -6,7 +6,7 @@ My passion lies in building secure, efficient systems, exploring new technologie
 <img alt="Night Coding" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049" width="330px" align="right"/>
 <br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Badi30x.png" alt="Your Image Badge" />
-
+[![wakatime](https://wakatime.com/badge/user/9f93947c-98e3-4c87-b2db-b8a808938352.svg)](https://wakatime.com/@9f93947c-98e3-4c87-b2db-b8a808938352)
 <br><br>
 ### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/badieos) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/badieos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badie-bahida) 
